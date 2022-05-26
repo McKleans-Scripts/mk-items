@@ -206,4 +206,3 @@
     ['viviancampbell'] 			 	 = {['name'] = 'viviancampbell', 	        ['label'] = 'viviancampbell',               ['weight'] = 1000, 	    ["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'viviancampbell.png',       ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Def Leppard 5/5'},
     ['warpig'] 			 	 	 	 = {['name'] = 'warpig', 			        ['label'] = 'warpig', 		                ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'warpig.png', 		        ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Motorhead 2/2'},
 
-    
