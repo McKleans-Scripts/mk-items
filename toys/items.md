@@ -1,6 +1,10 @@
 ## Toys
 Add These To Your qb-core/Shared/Items.Lua
 
+## Credit to Contributors
+ - Mr nFuRoX
+ - McKlean
+
 
 ----------  TOYS  ----------  TOYS  ----------  TOYS  ----------  TOYS  ----------
 ```
