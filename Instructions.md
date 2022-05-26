@@ -5,6 +5,23 @@ More Items for your server.
 v1.0
  - Upload
 
+ ## Contents
+  - Animals
+  - Chairs
+  - Drinks
+  - Drugs
+  - Food
+  - General
+  - Ingredients
+  - License
+  - Mechanic
+  - Medical
+  - Police
+  - Seaworld
+  - Technology
+  - Toys
+  - Weapons
+
  ## To Setup ##
 
  ## Images
