@@ -8,7 +8,6 @@ Add These To Your qb-core/Shared/Items.Lua
 
 ----------  Drugs  ----------  Drugs  ----------  Drugs  ----------  Drugs  ----------
 
--- Joints
 ```lua
 -- Joints
 ['joint1'] 			 	 		 = {['name'] = 'joint1', 						['label'] = 'Gelatti Joint', 			['weight'] = 100, 		['type'] = 'item', 		['image'] = 'joint1.png', 				['unique'] = false, 	['useable'] = true,  	['shouldClose'] = true,  	['combinable'] = nil, 	['description'] = 'Big Doinks!!'},
