@@ -23,6 +23,10 @@ Add These To Your qb-core/Shared/Items.Lua
 -- Marijuana
 ```lua
 	["ground_weed"] 					 = {["name"] = "ground_weed", 			 		["label"] = "Ground Weed", 		["weight"] = 200, 		["type"] = "item", 		["image"] = "ground-weed.png", 			    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Ground up Weed"},
+	["empty_weed_bag"] 				 = {["name"] = "empty_weed_bag", 			    ["label"] = "Empty Baggy", 			    ["weight"] = 10, 		["type"] = "item", 		["image"] = "weed-empty-bag.png", 		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "A empty baggy"},
+["weed_nutrition"] 				 = {["name"] = "weed_nutrition", 			    ["label"] = "Plant Fertilizer", 		["weight"] = 2000, 		["type"] = "item", 		["image"] = "fertilizer.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "Plant nutrition"},
+["weed_brick"] 		 			 = {["name"] = "weed_brick", 					["label"] = "Weed Brick", 				["weight"] = 1000, 		["type"] = "item", 		["image"] = "weed_brick.png", 			["unique"] = false, 	["useable"] = false, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "1KG Weed Brick to sell to large customers."},
+
 ```
 
 -- Oxides
@@ -30,4 +34,14 @@ Add These To Your qb-core/Shared/Items.Lua
 
 ["ironoxide"] 				 	 = {["name"] = "ironoxide", 			  		["label"] = "Iron Powder", 				["weight"] = 100, 		["type"] = "item", 		["image"] = "ironoxide.png", 			["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Some powder to mix with"},
 ["aluminumoxide"] 				 = {["name"] = "aluminumoxide", 			  	["label"] = "Aluminium Powder", 		["weight"] = 100, 		["type"] = "item", 		["image"] = "aluminumoxide.png", 		["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Some powder to mix with"},
+["ephedrine"] 					 = {["name"] = "ephedrine", 					["label"] = "Ephedrine", 				["weight"] = 200, 		["type"] = "item", 		["image"] = "ephedrine.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "make some meth"},
+["hydrochloricacid"] 			 = {["name"] = "hydrochloricacid", 				["label"] = "Hydrochloricacid", 		["weight"] = 200, 		["type"] = "item", 		["image"] = "hydrochloricacid.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "make some meth"},
+["acetone"] 					 = {["name"] = "acetone", 						["label"] = "Acetone", 					["weight"] = 200, 		["type"] = "item", 		["image"] = "acetone.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "make some meth"},
+
+```
+
+-- Coke
+```lua
+["cokebaggy"] 					 = {["name"] = "cokebaggy", 			  	  	["label"] = "Bag of Coke", 				["weight"] = 100, 		["type"] = "item", 		["image"] = "cocaine_baggy.png", 		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "The devil's Drug"},
+["crack_baggy"] 				 = {["name"] = "crack_baggy", 			  	  	["label"] = "Bag of Crack", 			["weight"] = 50, 		["type"] = "item", 		["image"] = "crack_baggy.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "To get happy faster."},
 ```
