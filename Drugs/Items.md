@@ -21,5 +21,5 @@ Add These To Your qb-core/Shared/Items.Lua
 ```
 
 ```lua
-	["ground_weed"] 					 = {["name"] = "ground_weed", 			 		["label"] = "Ground Weed", 		["weight"] = 200, 		["type"] = "item", 		["image"] = "og-kush.png", 			    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Ground up Weed"},
+	["ground_weed"] 					 = {["name"] = "ground_weed", 			 		["label"] = "Ground Weed", 		["weight"] = 200, 		["type"] = "item", 		["image"] = "ground-weed.png", 			    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Ground up Weed"},
 ```	
