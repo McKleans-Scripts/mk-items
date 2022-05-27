@@ -18,4 +18,8 @@ Add These To Your qb-core/Shared/Items.Lua
 	['joint5']			 	 		 = {['name'] = 'joint5', 						['label'] = 'Snow Man Joint', 			['weight'] = 100, 		['type'] = 'item', 		['image'] = 'joint5.png', 					['unique'] = false, 		['useable'] = true,  	['shouldClose'] = true,  	['combinable'] = nil, 	['description'] = 'Big Doinks!!'},
 	['joint6'] 		 	 			 = {['name'] = 'joint6', 						['label'] = 'Georgia Pie Joint', 		['weight'] = 100, 		['type'] = 'item', 		['image'] = 'joint6.png', 					['unique'] = false, 		['useable'] = true,  	['shouldClose'] = true,  	['combinable'] = nil, 	['description'] = 'Big Doinks!!'},
 	['joint7']				 	 	 = {['name'] = 'joint7', 						['label'] = 'El Jefe', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'joint7.png', 					['unique'] = false, 		['useable'] = true,  	['shouldClose'] = true,  	['combinable'] = nil, 	['description'] = 'Big Doinks!!'},
-	
+```
+
+```lua
+	["ground_weed"] 					 = {["name"] = "ground_weed", 			 		["label"] = "Ground Weed", 		["weight"] = 200, 		["type"] = "item", 		["image"] = "og-kush.png", 			    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Ground up Weed"},
+```	
