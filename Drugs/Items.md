@@ -22,4 +22,11 @@ Add These To Your qb-core/Shared/Items.Lua
 
 ```lua
 	["ground_weed"] 					 = {["name"] = "ground_weed", 			 		["label"] = "Ground Weed", 		["weight"] = 200, 		["type"] = "item", 		["image"] = "ground-weed.png", 			    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Ground up Weed"},
-```	
+```
+
+-- Oxides
+```lua
+
+["ironoxide"] 				 	 = {["name"] = "ironoxide", 			  		["label"] = "Iron Powder", 				["weight"] = 100, 		["type"] = "item", 		["image"] = "ironoxide.png", 			["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Some powder to mix with"},
+["aluminumoxide"] 				 = {["name"] = "aluminumoxide", 			  	["label"] = "Aluminium Powder", 		["weight"] = 100, 		["type"] = "item", 		["image"] = "aluminumoxide.png", 		["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Some powder to mix with"},
+```
