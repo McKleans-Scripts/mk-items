@@ -11,6 +11,7 @@ v1.0
   - Drinks
   - Drugs
   - Food
+  - Food - Mouldy
   - General
   - Ingredients
   - License
@@ -28,6 +29,7 @@ v1.0
 Add the images into your inventory resources 
  - qb-inventory/html/images
  - lj-inventory/html/images
+ - aj-inventory/html/images
 Or other inventories
 
 ## Step 2
