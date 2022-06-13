@@ -7,13 +7,13 @@ Add These To Your qb-core/Shared/Items.Lua
 
 
 ----------  TOYS  ----------  TOYS  ----------  TOYS  ----------  TOYS  ----------
-```
+```lua
 -- General Toys
     ["toy-egg"] 			 	 	 = {["name"] = "toy-egg", 				    ["label"] = "Burgershot Toy Egg", 			["weight"] = 1000,  	["decay"] = 0,  		["type"] = "item", 		["image"] = "toy-egg.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Gives Random Toys"},
     ["toy-eggg"] 			 	 	 = {["name"] = "toy-eggg", 				    ["label"] = "RoosterRest Toy Egg", 			["weight"] = 1000,  	["decay"] = 0,  		["type"] = "item", 		["image"] = "toy-eggg.png", 		    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Gives Random Toys"},
 
 ```
-```
+```lua
 -- Burgershot Toys
     ["barry"] 			 	 	 	 = {["name"] = "barry", 				    ["label"] = "Barry", 			            ["weight"] = 1000,  	["decay"] = 0,  		["type"] = "item", 		["image"] = "barry.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
     ["lenny"] 			 	 	 	 = {["name"] = "lenny", 				    ["label"] = "Lenny", 			            ["weight"] = 1000,  	["decay"] = 0,  		["type"] = "item", 		["image"] = "lenny.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
@@ -21,7 +21,7 @@ Add These To Your qb-core/Shared/Items.Lua
     ["hanno"] 			 	 	 	 = {["name"] = "hanno", 				    ["label"] = "Hanno", 			            ["weight"] = 1000,  	["decay"] = 0,  		["type"] = "item", 		["image"] = "hanno.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
     ["kiki"] 			 	 	 	 = {["name"] = "kiki", 					    ["label"] = "Kiki", 			            ["weight"] = 1000,  	["decay"] = 0,  		["type"] = "item", 		["image"] = "kiki.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
 ```
-```
+```lua
 -- NP Rooser Rest
     ["bjorn"] 			 	 	 	 = {["name"] = "bjorn", 				    ["label"] = "Bjorn", 			            ["weight"] = 1000,  	["decay"] = 0,  		["type"] = "item", 		["image"] = "bjorn.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
     ["buddha"] 			 	 	 	 = {["name"] = "buddha", 				    ["label"] = "Buddha", 			            ["weight"] = 1000,  	["decay"] = 0,  		["type"] = "item", 		["image"] = "buddha.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
@@ -35,7 +35,7 @@ Add These To Your qb-core/Shared/Items.Lua
     ["sven"] 			 	 	 	 = {["name"] = "sven", 					    ["label"] = "Sven", 			            ["weight"] = 1000,  	["decay"] = 0,  		["type"] = "item", 		["image"] = "sven.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
     ["yeager"] 			 	 	 	 = {["name"] = "yeager", 				    ["label"] = "Yeager", 			            ["weight"] = 1000,  	["decay"] = 0,  		["type"] = "item", 		["image"] = "yeager.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
 ```
-```
+```lua
 -- Avatars The Last Airbender Pops
     ['aangairbubble_pop'] 			 = {['name'] = 'aangairbubble_pop',         ['label'] = 'Aang On Airbubble', 	        ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'aangairbubble_pop.png', 	["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Avatar 1/10 Very Rare'},
     ['admiralzhao_pop'] 			 = {['name'] = 'admiralzhao_pop', 	        ['label'] = 'Admiral Zhao', 		        ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'admiralzhao_pop.png', 		["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Avatar 2/10'},
@@ -48,7 +48,7 @@ Add These To Your qb-core/Shared/Items.Lua
     ['toph_pop'] 			 	 	 = {['name'] = 'toph_pop', 			        ['label'] = 'Toph', 			            ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'toph_pop.png', 		    ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Avatar 9/10'},
     ['zuko_chase_pop'] 			 	 = {['name'] = 'zuko_chase_pop', 	        ['label'] = 'Zuko Chase', 		            ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'zuko_chase_pop.png', 	    ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Avatar 10/10 Chase Edition Very Rare'},
 ```
-```
+```lua
 -- Chrome Hulk Pops
 	['bluehulk'] 				 = {['name'] = 'bluehulk', 			['label'] = 'Blue Hulk', 	['weight'] = 1000, 		['type'] = 'item',	['ammotype'] = nil, 	['image'] = 'bluehulk.png', 	['unique'] = false, 		['useable'] = true, 	['description'] = 'Chrome Hulk 1/6 Rare'},
 	['greenhulk'] 				 = {['name'] = 'greenhulk', 		['label'] = 'Green Hulk', 	['weight'] = 1000, 		['type'] = 'item',	['ammotype'] = nil, 	['image'] = 'greenhulk.png', 	['unique'] = false, 		['useable'] = true, 	['description'] = 'Chrome Hulk 2/6 Rare'},
@@ -57,7 +57,7 @@ Add These To Your qb-core/Shared/Items.Lua
 	['redhulk'] 				 = {['name'] = 'redhulk', 			['label'] = 'Red Hulk', 	['weight'] = 1000, 		['type'] = 'item',	['ammotype'] = nil, 	['image'] = 'redhulk.png', 		['unique'] = false, 		['useable'] = true, 	['description'] = 'Chrome Hulk 5/6 Rare'},
 	['yellowhulk'] 				 = {['name'] = 'yellowhulk', 		['label'] = 'Yellow Hulk', 	['weight'] = 1000, 		['type'] = 'item',	['ammotype'] = nil, 	['image'] = 'yellowhulk.png', 	['unique'] = false, 		['useable'] = true, 	['description'] = 'Chrome Hulk 6/6 Rare'},
 ```
-```
+```lua
 -- Disney Princesses Pops
     ['ariel'] 			 	 	 	 = {['name'] = 'ariel', 			        ['label'] = 'Ariel', 		                ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'ariel.png', 		        ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Disney Princess 1/8 Glitter Edition Rare'},
     ['belle'] 			 	 	 	 = {['name'] = 'belle', 			        ['label'] = 'Belle', 		                ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'belle.png', 		        ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Disney Princess 2/8 Glitter Edition Rare'},
@@ -68,7 +68,7 @@ Add These To Your qb-core/Shared/Items.Lua
     ['tiana'] 			 	 	 	 = {['name'] = 'tiana', 			        ['label'] = 'Tiana', 		                ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'tiana.png', 		        ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Disney Princess 7/8'},
     ['tinkerbell'] 			 	 	 = {['name'] = 'tinkerbell', 		        ['label'] = 'Tinkerbell', 	                ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'tinkerbell.png', 	        ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Disney Princess 8/8'},
 ```
-```
+```lua
 -- Female WWE Pops
     ['bayley_pop'] 			 	 	 = {['name'] = 'bayley_pop', 			    ['label'] = 'Bayley', 	                    ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'bayley_pop.png', 			["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Female WWE 1/11 Rare'},
     ['beckylynch_pop'] 			 	 = {['name'] = 'beckylynch_pop', 		    ['label'] = 'Becky Lynch', 		            ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'beckylynch_pop.png', 		["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Female WWE 2/11 Rare'},
@@ -82,7 +82,7 @@ Add These To Your qb-core/Shared/Items.Lua
     ['sashabanks_pop'] 			 	 = {['name'] = 'sashabanks_pop', 		    ['label'] = 'Sasha Banks', 		            ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'sashabanks_pop.png', 		["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Female WWE 10/11'},
     ['trishstratus_pop'] 			 = {['name'] = 'trishstratus_pop', 		    ['label'] = 'Trish Stratus', 	            ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'trishstratus_pop.png', 	["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Female WWE 11/11'},
 ```
-```
+```lua
 -- Horror Pops
     ['annabelle_pop'] 			 	 = {['name'] = 'annabelle_pop', 		    ['label'] = 'Annabelle', 			        ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'annabelle_pop.png', 	    ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Horror 1/13'},
     ['beetlejuice_pop'] 			 = {['name'] = 'beetlejuice_pop', 		    ['label'] = 'BeetleJuice', 			        ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'beetlejuice_pop.png', 	    ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Horror 2/13'},
@@ -98,7 +98,7 @@ Add These To Your qb-core/Shared/Items.Lua
     ['pinhead_pop'] 			 	 = {['name'] = 'pinhead_pop', 			    ['label'] = 'Pinhead', 			            ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'pinhead_pop.png', 			["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Horror 12/13'},
     ['thecreeper_pop'] 			 	 = {['name'] = 'thecreeper_pop', 		    ['label'] = 'The Creeper', 		            ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'thecreeper_pop.png', 		["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Horror 13/13'},
 ```
-```
+```lua
 -- Male WWE Pops
     ['ajstyles_pop'] 			 	 = {['name'] = 'ajstyles_pop', 			    ['label'] = 'Aj Styles', 		            ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'ajstyles_pop.png', 		["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Male WWE 1/20'},
     ['andrethegiant_pop'] 			 = {['name'] = 'andrethegiant_pop', 	    ['label'] = 'Andre The Giant', 	            ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'andrethegiant_pop.png', 	["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Male WWE 2/20'},
@@ -121,7 +121,7 @@ Add These To Your qb-core/Shared/Items.Lua
     ['undertaker_pop'] 			 	 = {['name'] = 'undertaker_pop', 		    ['label'] = 'Undertaker', 			        ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'undertaker_pop.png', 		["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Male WWE 19/20'},
     ['undertakerspecial_pop'] 		 = {['name'] = 'undertakerspecial_pop',     ['label'] = 'Undertaker Special', 	        ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'undertakerspecial_pop.png',["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Male WWE 20/20 Very Rare'},
 ```
-```
+```lua
 -- NBA POPS
     ['charlottehornets_pop'] 		 = {['name'] = 'charlottehornets_pop', 	    ['label'] = 'Charlotte Hornets',            ['weight'] = 1000, 	    ["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'charlottehornets_pop.png', ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'NBA 1/10 Rare'},
     ['damianlillard_pop'] 			 = {['name'] = 'damianlillard_pop', 	    ['label'] = 'Damian Lillard', 	            ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'damianlillard_pop.png', 	["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'NBA 2/10'},
@@ -134,7 +134,7 @@ Add These To Your qb-core/Shared/Items.Lua
     ['thecoyote_pop'] 			 	 = {['name'] = 'thecoyote_pop', 		    ['label'] = 'The Coyote', 		            ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'thecoyote_pop.png', 		["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'NBA 9/10 Rare'},
     ['zionwilliamson_pop'] 			 = {['name'] = 'zionwilliamson_pop', 	    ['label'] = 'Zion Williamson', 	            ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'zionwilliamson_pop.png', 	["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'NBA 10/10'},
 ```
-```
+```lua
 -- TMNT POPS
     ['april'] 			 	 	 	 = {['name'] = 'april', 		            ['label'] = 'april', 	                    ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'april.png', 	            ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'TMNT 1/18'},
     ['baxter'] 			 	 	 	 = {['name'] = 'baxter', 		            ['label'] = 'baxter', 	                    ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'baxter.png', 	            ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'TMNT 2/18 Very Rare'},
@@ -155,7 +155,7 @@ Add These To Your qb-core/Shared/Items.Lua
     ['shredder'] 			 	 	 = {['name'] = 'shredder', 		            ['label'] = 'shredder', 	                ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'shredder.png', 	        ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'TMNT 17/18'},
     ['splinter'] 			 	 	 = {['name'] = 'splinter', 		            ['label'] = 'splinter', 	                ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'splinter.png', 	        ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'TMNT 18/18'},
 ```
-```
+```lua
 -- Office Pops
     ['andy'] 			 	 	 	 = {['name'] = 'andy', 		                ['label'] = 'andy', 	                    ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'andy.png', 	            ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'The Office 1/32'},
     ['angela'] 			 	 	 	 = {['name'] = 'angela', 		            ['label'] = 'angela', 	                    ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'angela.png', 	            ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'The Office 2/32'},
@@ -190,7 +190,7 @@ Add These To Your qb-core/Shared/Items.Lua
     ['ryan'] 			 	 	 	 = {['name'] = 'ryan', 		                ['label'] = 'ryan', 	                    ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'ryan.png', 	            ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'The Office 31/32'},
     ['stanley'] 			 	 	 = {['name'] = 'stanley', 		            ['label'] = 'stanley', 	                    ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'stanley.png', 	            ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'The Office 32/32'},
 ```
-```
+```lua
 -- Music Pops
     ['biggie'] 			 	 	 	 = {['name'] = 'biggie', 			        ['label'] = 'biggie', 		                ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'biggie.png', 		        ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Rappers 1/13'},
     ['biggie1'] 			 	 	 = {['name'] = 'biggie1', 			        ['label'] = 'biggie1', 		                ['weight'] = 1000, 		["decay"] = 0,  		['type'] = 'item',	    ['image'] = 'biggie1.png', 		        ["created"] = nil,		['unique'] = false, 	['useable'] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ['description'] = 'Rappers 2/13 Very Rare'},

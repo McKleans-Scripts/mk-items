@@ -1,4 +1,4 @@
-## Police
+## Smokes
 Add These To Your qb-core/Shared/Items.Lua
 
 ## Credit to Contributors
@@ -6,7 +6,7 @@ Add These To Your qb-core/Shared/Items.Lua
  - 
 
 
-----------  Police  ----------  Police  ----------  Police  ----------  Police  ----------
+----------  Smokes  ----------  Smokes  ----------  Smokes  ----------  Smokes  ----------
 ```lua
 
 

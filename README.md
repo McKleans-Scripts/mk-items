@@ -2,8 +2,17 @@
 More Items for your server.
 
 ## Update ##
-v1.0
- - Upload
+v1.2
+ - Updated some items.md
+ - added items.md files to the new folders
+ - added a couple contributors
+
+v1.1
+ - Added more folders
+  - Illegal Folder
+  - Masks Folder
+  - Pawn Shop Folder
+  - Smokes Folder
 
  ## Contents
   - Animals 
@@ -52,3 +61,4 @@ Or other inventories
 - Please feel free to submit a Pull Request (PR) and add to this list for everyone to use.
 - Please make sure you add the items.lua lines as well as the images.
 - Please make sure not to use Paid Content images unless given permission, if given permission please give credit.
+- Please use this Template to add to the items.md files [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)

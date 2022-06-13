@@ -7,5 +7,19 @@ Add These To Your qb-core/Shared/Items.Lua
 
 
 ----------  Medical  ----------  Medical  ----------  Medical  ----------  Medical  ----------
+```lua
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+```
