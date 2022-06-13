@@ -6,6 +6,7 @@ v1.2
  - Updated some items.md
  - added items.md files to the new folders
  - added a couple contributors
+ - [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)
 
 v1.1
  - Added more folders
