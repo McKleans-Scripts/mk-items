@@ -1,5 +1,5 @@
 # MK-Items
-More Items for your server.
+More Items/Icons for your Server by the Community.
 
 ## Update ##
 v1.3
