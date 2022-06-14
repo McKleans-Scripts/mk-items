@@ -5,19 +5,14 @@ More Items/Icons for your Server by the Community.
     + Template supports Jims Thirst and Hunger, also supports the [decay inventory Script](https://github.com/tnj-development/inventory)
 
 ## Update ##
+v1.4.2
+ - Added some Weapon Parts
+
 v1.4.1
  - More Credit card Choices
  - More Radio Choices
  - Security Card img's have been resized
  - More USB Choices
-
-v1.4
- - More Mechanic Items/Choices
- - Added to the Mechanic items.md
- - Added to the Tools items.md
- - Added to the Smokes items.md
- - More Police Choices
- - Added to the Police items.md
 
 
  ## Contents
