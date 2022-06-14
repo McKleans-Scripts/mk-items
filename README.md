@@ -2,17 +2,19 @@
 More Items for your server.
 
 ## Update ##
+v1.3
+ - More Drug choices
+ - More Masks
+ - More Tech
+ - More Fish
+ - New Tools Folder
+  - More Tool Choices
+- More Stun Gun Choices
+
 v1.2
  - Updated some items.md
  - added items.md files to the new folders
  - added a couple contributors
-
-v1.1
- - Added more folders
-  - Illegal Folder
-  - Masks Folder
-  - Pawn Shop Folder
-  - Smokes Folder
 
  ## Contents
   - Animals 
