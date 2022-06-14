@@ -2,7 +2,7 @@
 Add These To Your qb-core/Shared/Items.Lua
 
 ## Credit to Contributors
- - MrFurox
+ - MrFuRoX @ [Project Boosted](https://github.com/Project-Boosted)
  - 
 
 

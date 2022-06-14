@@ -5,6 +5,12 @@ More Items/Icons for your Server by the Community.
     + Template supports Jims Thirst and Hunger, also supports the [decay inventory Script](https://github.com/tnj-development/inventory)
 
 ## Update ##
+v1.4.1
+ - More Credit card Choices
+ - More Radio Choices
+ - Security Card img's have been resized
+ - More USB Choices
+
 v1.4
  - More Mechanic Items/Choices
  - Added to the Mechanic items.md
@@ -13,14 +19,6 @@ v1.4
  - More Police Choices
  - Added to the Police items.md
 
-v1.3
- - More Drug choices
- - More Masks
- - More Tech
- - More Fish
- - New Tools Folder
-  - More Tool Choices
-- More Stun Gun Choices
 
  ## Contents
   - Animals 
@@ -42,13 +40,13 @@ v1.3
   - Smokes
   - Technology | Bank Cards | Laptop | Phone | Security Cards | USB
   - Tools
-  - Toys | GTAV | Pops | NP Rooster Rest
+  - Toys | GTAV | Pops | NP Rooster Rest || Mostly contributed by [Project Boosted](https://github.com/Project-Boosted/brp-Loot-Images)
   - Weapons | Ammo | Attachments-Parts | 
 
  ## Credit ##
  - Massive Thank you to Jims ([JixelPattens](https://discord.gg/xKgQZ6wZvS)) Community for all their Icons/Images
  - Thank You to Jim himself, for permission to include some of his images.
- - Thank You to MrFurox who also contributed a lot to this repo.
+ - Thank You to MrFurox from [Project Boosted](https://discord.gg/TrvAhGvDs3) who also contributed a lot to this repo.
 
  And Thank you to anyone who helps submit images/icons for the Community
 

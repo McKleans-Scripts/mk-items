@@ -3,7 +3,7 @@ Add These To Your qb-core/Shared/Items.Lua
 
 ## Credit to Contributors
  - ItsMuri
- - 
+ - KenanDK
 
 
 ----------  Animals  ----------  Animals  ----------  Animals  ----------  Animals  ----------

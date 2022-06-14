@@ -3,7 +3,7 @@ Add These To Your qb-core/Shared/Items.Lua
 
 ## Credit to Contributors
  - LemonzPCMR
- - Mr Furox
+ - MrFuRoX @ [Project Boosted](https://github.com/Project-Boosted)
  - [IDRP](https://github.com/idrp/qb-uwu)
 
 
