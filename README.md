@@ -10,6 +10,8 @@ v1.4.1
  - More Radio Choices
  - Security Card img's have been resized
  - More USB Choices
+ - More Animal related images
+ - Edit to some of the Contributors lists
 
 v1.4
  - More Mechanic Items/Choices
