@@ -1,7 +1,18 @@
 # MK-Items
 More Items/Icons for your Server by the Community.
 
+- If Contributing please use this template for the items.lua lines :- [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)
+    + Template supports Jims Thirst and Hunger, also supports the [decay inventory Script](https://github.com/tnj-development/inventory)
+
 ## Update ##
+v1.4
+ - More Mechanic Items/Choices
+ - Added to the Mechanic items.md
+ - Added to the Tools items.md
+ - Added to the Smokes items.md
+ - More Police Choices
+ - Added to the Police items.md
+
 v1.3
  - More Drug choices
  - More Masks
@@ -10,12 +21,6 @@ v1.3
  - New Tools Folder
   - More Tool Choices
 - More Stun Gun Choices
-
-v1.2
- - Updated some items.md
- - added items.md files to the new folders
- - added a couple contributors
- - [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)
 
  ## Contents
   - Animals 
@@ -29,13 +34,14 @@ v1.2
   - License
   - Masks
   - Materials | Animal Skin-Pelt
-  - Mechanic
+  - Mechanic | sprays
   - Medical
   - Pawn Shop
   - Police
   - Seaworld
   - Smokes
   - Technology | Bank Cards | Laptop | Phone | Security Cards | USB
+  - Tools
   - Toys | GTAV | Pops | NP Rooster Rest
   - Weapons | Ammo | Attachments-Parts | 
 
