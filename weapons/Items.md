@@ -29,7 +29,7 @@ Add These To Your qb-core/Shared/Items.Lua
   ['weapon_assaultrifle'] = {    ['name'] = "weapon_assaultrifle",    ['label'] = "Assault Rifle",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_assaultrifle.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = false,    ['description'] = "Assault rifle",    ['combinable'] = nil  },
   ['weapon_assaultrifle_mk2'] = {    ['name'] = "weapon_assaultrifle_mk2",    ['label'] = "Assault Rifle MKll",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_assaultrifle_mk2.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = false,    ['description'] = "Assault rifle MKII",    ['combinable'] = nil  },
   ```
-```LUA
+```lua
 ----------  Weapons PISTOLS ----------
   ['weapon_appistol'] = {    ['name'] = "weapon_appistol",    ['label'] = "AP Pistol",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_appistol.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "AP Pistol",    ['combinable'] = nil  },
   ['weapon_ceramicpistol'] = {    ['name'] = "weapon_ceramicpistol",    ['label'] = "Ceramic Pistol",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_ceramicpistol.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Ceramic Pistol",    ['combinable'] = nil  },
@@ -39,15 +39,25 @@ Add These To Your qb-core/Shared/Items.Lua
   ['weapon_glock19'] = {    ['name'] = "weapon_glock19",    ['label'] = "Glock 19",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_glock19.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Glock 19",    ['combinable'] = nil  },
   ['weapon_GlockAP'] = {    ['name'] = "weapon_GlockAP",    ['label'] = "Glock AP",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_GlockAP.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Glock AP",    ['combinable'] = nil  },
   ['weapon_heavypistol'] = {    ['name'] = "weapon_heavypistol",    ['label'] = "Heavy Pistol",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_heavypistol.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Heavy pistol",    ['combinable'] = nil  },
-
-
-
-
-
-
-
-  
-
+  ['weapon_m45a1'] = {    ['name'] = "weapon_m45a1",    ['label'] = "m45a1 Pistol",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_m45a1.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "m45a1 Pistol",    ['combinable'] = nil  },
+  ['weapon_machinepistol'] = {    ['name'] = "weapon_machinepistol",    ['label'] = "Machine Pistol",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_machinepistol.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Machine Pistol",    ['combinable'] = nil  },
+  ['weapon_marksmanpistol'] = {    ['name'] = "weapon_marksmanpistol",    ['label'] = "Marksman Pistol",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_marksmanpistol.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Marksman Pistol",    ['combinable'] = nil  },
+  ['weapon_navyrevolver'] = {    ['name'] = "weapon_navyrevolver",    ['label'] = "Navy Revolver",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_navyrevolver.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Navy Revolver",    ['combinable'] = nil  },
+  ['weapon_pistol'] = {    ['name'] = "weapon_pistol",    ['label'] = "Pistol",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_pistol.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Pistol",    ['combinable'] = nil  },
+  ['weapon_pistol_mk2'] = {    ['name'] = "weapon_pistol_mk2",    ['label'] = "Pistol MKII",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_pistol_mk2.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Pistol MKII",    ['combinable'] = nil  },
+  ["weapon_pistol_mk2-2"] = {    ['name'] = "weapon_pistol_mk2-2",    ['label'] = "Pistol MKII",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_pistol_mk2-2.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Pistol MKII",    ['combinable'] = nil  },
+  ['weapon_pistol50'] = {    ['name'] = "weapon_pistol50",    ['label'] = "Pistol 50",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_pistol50.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Pistol 50",    ['combinable'] = nil  },  
+  ['weapon_raypistol'] = {    ['name'] = "weapon_raypistol",    ['label'] = "RAYGUN",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_raypistol.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "RAYGUN",    ['combinable'] = nil  },
+  ['weapon_revolver'] = {    ['name'] = "weapon_revolver",    ['label'] = "Revolver",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_revolver.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Revolver",    ['combinable'] = nil  },
+  ['weapon_revolver_mk2'] = {    ['name'] = "weapon_revolver_mk2",    ['label'] = "Revolver MKII",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_revolver_mk2.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Revolver MKII",    ['combinable'] = nil  },
+  ['weapon_snspistol'] = {    ['name'] = "weapon_snspistol",    ['label'] = "SnS Pistol",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_snspistol.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "SnS Pistol",    ['combinable'] = nil  },
+  ['weapon_snspistol_mk2'] = {    ['name'] = "weapon_snspistol_mk2",    ['label'] = "SnS Pistol MKII",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_snspistol_mk2.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "SnS Pistol MKII",    ['combinable'] = nil  },
+  ['weapon_stungun_black'] = {    ['name'] = "weapon_stungun_black",    ['label'] = "Stungun Black",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_stungun_black.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "STUNGUN/TASER",    ['combinable'] = nil  },
+  ['weapon_stungun_blue'] = {    ['name'] = "weapon_stungun_blue",    ['label'] = "Stungun Blue",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_stungun_blue.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "STUNGUN/TASER",    ['combinable'] = nil  },
+  ['weapon_stungun_green'] = {    ['name'] = "weapon_stungun_green",    ['label'] = "Stungun Green",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_stungun_green.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "STUNGUN/TASER",    ['combinable'] = nil  },
+  ['weapon_stungun_red'] = {    ['name'] = "weapon_stungun_red",    ['label'] = "Stungun Red",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_stungun_red.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "STUNGUN/TASER",    ['combinable'] = nil  },
+  ['weapon_stungun_yellow'] = {    ['name'] = "weapon_stungun_yellow",    ['label'] = "Stungun Yellow",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_stungun_yellow.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "STUNGUN/TASER",    ['combinable'] = nil  },
+  ['weapon_vintagepistol'] = {    ['name'] = "weapon_vintagepistol",    ['label'] = "Vintage Pistol",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_vintagepistol.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Vintage Pistol",    ['combinable'] = nil  },
 ```
 ```lua
 ----------  Weapons Lunchers ----------
@@ -107,6 +117,10 @@ Add These To Your qb-core/Shared/Items.Lua
   ['trigger'] = {    ['name'] = "trigger",    ['label'] = "Trigger",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "trigger.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Trigger",    ['combinable'] = nil  },
   ['trigger2'] = {    ['name'] = "trigger2",    ['label'] = "Trigger 2",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "trigger2.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Trigger 2",    ['combinable'] = nil  },
   ```
-  ```LUA
+```LUA
+----------  Weapons SHOTGUNS ----------
+  ['weapon_assaultshotgun'] = {    ['name'] = "weapon_assaultshotgun",    ['label'] = "Assault Shotgun",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_assaultshotgun.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Assault Shotgun",    ['combinable'] = nil  },
+  ['weapon_autoshotgun'] = {    ['name'] = "weapon_autoshotgun",    ['label'] = "Auto Shotgun",    ['weight'] = 500,    ['decay'] = "0.0",['type'] = "weapon",    ['image'] = "weapon_autoshotgun.png",    ['created'] = "nil",    ['unique'] = false,    ['usable'] = false,    ['shouldClose'] = true,    ['description'] = "Auto Shotgun",    ['combinable'] = nil  },
 
-  ```
+
+```
