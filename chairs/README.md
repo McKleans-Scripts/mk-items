@@ -118,7 +118,4 @@ Add These To Your qb-core/Shared/Items.Lua
 	["chair108"] 					= {["name"] = "chair108",  	    			["label"] = "White Casino Chair",		["weight"] = 100,			["decay"] = 0,			["type"] = "item", 		["image"] = "chair108.png", 				["created"] = nil,		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,   	["combinable"] = nil,   ["description"] = ""  },
 	["chair109"] 					= {["name"] = "chair109",  	    			["label"] = "Cream Wicker Chair",		["weight"] = 100,			["decay"] = 0,			["type"] = "item", 		["image"] = "chair109.png", 				["created"] = nil,		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,   	["combinable"] = nil,   ["description"] = ""  },
 	["chair110"] 					= {["name"] = "chair110",  	    			["label"] = "Black Metal Dining Chair",	["weight"] = 100,			["decay"] = 0,			["type"] = "item", 		["image"] = "chair110.png", 				["created"] = nil,		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,   	["combinable"] = nil,   ["description"] = ""  },
-
-
-
 ```

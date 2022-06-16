@@ -19,17 +19,4 @@ Add These To Your qb-core/Shared/Items.Lua
     ["tapiokaballs"] = {["name"] = "tapiokaballs", ["label"] = "Flour", ["weight"] = 200, ["type"] = "item", ["image"] = "tapiokaballs.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Tapioka balls typically seen in making Bubble Tea!"},
     ["tea"] = {["name"] = "tea", ["label"] = "Flour", ["weight"] = 200, ["type"] = "item", ["image"] = "tea.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Its just tea..."},
     ["tofu"] = {["name"] = "tofu", ["label"] = "Flour", ["weight"] = 200, ["type"] = "item", ["image"] = "tofu.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Tofu. Not quite as tasty as real meat but to each their own..."},
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```

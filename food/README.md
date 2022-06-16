@@ -3,6 +3,7 @@ Add These To Your qb-core/Shared/Items.Lua
 
 ## Credit to Contributors
  - [IDRP](https://github.com/idrp/qb-uwu)
+ - MrFuRoX @ [Project Boosted](https://github.com/Project-Boosted)
 
 
 ----------  General  ----------  General  ----------  General  ----------  General  ----------
@@ -23,12 +24,12 @@ Add These To Your qb-core/Shared/Items.Lua
 ```
 ```lua
 -- UWU CATCAFE
-    ["uwupancake"] = {["name"] = "uwupancake", ["label"] = "uWu Savory Pancake", ["weight"] = 200, ["type"] = "item", ["image"] = "uwupancake.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Korean savory pancake made with scallions."}, 
-    ["uwucupcake"] = {["name"] = "uwucupcake", ["label"] = "uWu Cupcake", ["weight"] = 200, ["type"] = "item", ["image"] = "uwucupcake.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Sugar Kitty Cupcake!"}, 
-    ["uwuvanillasandy"] = {["name"] = "uwuvanillasandy", ["label"] = "uWu V-Icecream Sandy", ["weight"] = 200, ["type"] = "item", ["image"] = "uwuvanillasandy.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Sweet Vanilla Biscuit filled with Icecreamy!"}, 
-    ["uwuchocsandy"] = {["name"] = "uwuchocsandy", ["label"] = "uWu C-Icecream Sandy", ["weight"] = 200, ["type"] = "item", ["image"] = "uwuchocsandy.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Sweet Chocolate Biscuit filled with Icecreamy!"}, 
-    ["uwubudhabowl"] = {["name"] = "uwubudhabowl", ["label"] = "uWu Budha Bowl", ["weight"] = 200, ["type"] = "item", ["image"] = "uwubudhabowl.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Bowl of nourishment and balance."}, 
-    ["uwusushi"] = {["name"] = "uwusushi", ["label"] = "uWu Sushi", ["weight"] = 200, ["type"] = "item", ["image"] = "uwusushi.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Designed as a window to your soul."}, 
-    ["uwumisosoup"] = {["name"] = "uwumisosoup", ["label"] = "uWu Miso Soup", ["weight"] = 200, ["type"] = "item", ["image"] = "uwumisosoup.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Fungus never tasted so good!"}, 
-    ["uwubentobox"] = {["name"] = "uwubentobox", ["label"] = "uWu Bento Box", ["weight"] = 200, ["type"] = "item", ["image"] = "uwubentobox.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "An uWu Selection with a surprise!"},
+    ["uwupancake"] = {["name"] = "uwupancake", ["label"] = "uWu Savory Pancake", ["weight"] = 100, 		["decay"] = 0.1, ['hunger'] = math.random(20, 30),	["type"] = "item", ["image"] = "uwupancake.png",  ["created"] = nil, ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Korean savory pancake made with scallions."}, 
+    ["uwucupcake"] = {["name"] = "uwucupcake", ["label"] = "uWu Cupcake", ["weight"] = 100,  ["decay"] = 0.1, ['hunger'] = math.random(20, 30),	["type"] = "item", ["image"] = "uwucupcake.png",  ["created"] = nil, ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Sugar Kitty Cupcake!"}, 
+    ["uwuvanillasandy"] = {["name"] = "uwuvanillasandy", ["label"] = "uWu V-Icecream Sandy", ["weight"] = 100,  ["decay"] = 0.1, ['hunger'] = math.random(20, 30),	["type"] = "item", ["image"] = "uwuvanillasandy.png",  ["created"] = nil, ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Sweet Vanilla Biscuit filled with Icecreamy!"}, 
+    ["uwuchocsandy"] = {["name"] = "uwuchocsandy", ["label"] = "uWu C-Icecream Sandy", ["weight"] = 100,  ["decay"] = 0.1, ['hunger'] = math.random(20, 30),	["type"] = "item", ["image"] = "uwuchocsandy.png",  ["created"] = nil, ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Sweet Chocolate Biscuit filled with Icecreamy!"}, 
+    ["uwubudhabowl"] = {["name"] = "uwubudhabowl", ["label"] = "uWu Budha Bowl", ["weight"] = 100,  ["decay"] = 0.1, ['hunger'] = math.random(20, 30),	["type"] = "item", ["image"] = "uwubudhabowl.png",  ["created"] = nil, ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Bowl of nourishment and balance."}, 
+    ["uwusushi"] = {["name"] = "uwusushi", ["label"] = "uWu Sushi", ["weight"] = 100,  ["decay"] = 0.1, ['hunger'] = math.random(20, 30),	["type"] = "item", ["image"] = "uwusushi.png",  ["created"] = nil, ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Designed as a window to your soul."}, 
+    ["uwumisosoup"] = {["name"] = "uwumisosoup", ["label"] = "uWu Miso Soup", ["weight"] = 100,  ["decay"] = 0.1, ['hunger'] = math.random(20, 30),	["type"] = "item", ["image"] = "uwumisosoup.png",  ["created"] = nil, ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Fungus never tasted so good!"}, 
+    ["uwubentobox"] = {["name"] = "uwubentobox", ["label"] = "uWu Bento Box", ["weight"] = 100,  ["decay"] = 0.1, ['hunger'] = math.random(20, 30),	["type"] = "item", ["image"] = "uwubentobox.png",  ["created"] = nil, ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "An uWu Selection with a surprise!"},
 ```
