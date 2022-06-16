@@ -2,7 +2,7 @@
 Add These To Your qb-core/Shared/Items.Lua
 
 ## Credit to Contributors
- -Discord ***ItzThatGUY***#2082
+ -***ItzThatGUY***#2082 [NatasWillDoIt](https://github.com/NatasWillDoIt)
  -Made this list
 
 
