@@ -9,23 +9,29 @@ Bringing More Items to our Communities Role Play Sessions.
 
 ## Updates ##
 
+v1.5.2
+  - Read.Me Drinks Updated
+    + Energy Drinks And Sodas 
+  - Read.Me Food Updated
+    + Brownies & Project Boosted's Addon Diner Food
+
 v1.5.1
- - New Cleaning folder added
-  + cleaning supplies added
-- a few alcoholic drinks added
-- few phones added
+  - New Cleaning folder added
+    + cleaning supplies added
+  - a few alcoholic drinks added
+  - few phones added
 
 v1.5
- - Over 200 Files adjusted
- - Updated main `README.md` file
- - Replaced all `items.md` files with `README.md` files to work with Github
- - Updated the `Updates.md` files for those that want to keep up to date
- - Created folder `chemicals` in the `drugs` folder
- - Seperated the `attachemnts-parts` folder in two
- - Resized a bunch of items to **100x100**
- - Contribution from [NatasWillDoIt](https://github.com/NatasWillDoIt)
-  + Weapons README.md
-  + Pawn Shop README.md
+  - Over 200 Files adjusted
+  - Updated main `README.md` file
+  - Replaced all `items.md` files with `README.md` files to work with Github
+  - Updated the `Updates.md` files for those that want to keep up to date
+  - Created folder `chemicals` in the `drugs` folder
+  - Seperated the `attachemnts-parts` folder in two
+  - Resized a bunch of items to **100x100**
+  - Contribution from [NatasWillDoIt](https://github.com/NatasWillDoIt)
+    + Weapons README.md
+    + Pawn Shop README.md
 
 v1.4.3
  - Added `items.md` contributed by [NatasWillDoIt](https://github.com/NatasWillDoIt)
