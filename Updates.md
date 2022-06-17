@@ -9,6 +9,12 @@ Bringing More Items to our Communities Role Play Sessions.
 
 ## Updates ##
 
+v1.5.1
+ - New Cleaning folder added
+  + cleaning supplies added
+- a few alcoholic drinks added
+- few phones added
+
 v1.5
  - Over 200 Files adjusted
  - Updated main `README.md` file

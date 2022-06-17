@@ -19,7 +19,8 @@ Bringing More Items to our Communities Role Play Sessions.
  ## Massive Credit to ##
  - Massive Thank you to Jims ([JixelPattens](https://discord.gg/xKgQZ6wZvS)) Community for all their Icons/Images
  - Thank You to Jim himself, for permission to include some of his images.
- - Thank You to MrFurox from [Project Boosted](https://discord.gg/TrvAhGvDs3) who also contributed a lot to this repo.
+ - Thank You to MrFurox from [Project Boosted](https://discord.gg/TrvAhGvDs3) for contributing a lot to this repo.
+ - Thank You to [NatasWillDoIt](https://github.com/NatasWillDoIt) for contributing a lot to the README.md
 
  And Thank you to anyone who helps submit images/icons for the Community
 
