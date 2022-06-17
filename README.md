@@ -8,7 +8,7 @@ Bringing More Items to our Communities Role Play Sessions.
     + Template supports Jims Thirst and Hunger, also supports the [decay inventory Script](https://github.com/tnj-development/inventory)
 
 
- ## Support
+## Support
   - Most of the README.md files support the [decay inventory Script](https://github.com/tnj-development/inventory) (All files to support soon)
     + If you do not use the decay script don't worry, the item.lua lines will still work with no problems
     + All decay values will be set to `0.1` as this will be down to your server to set the value amount
@@ -16,35 +16,35 @@ Bringing More Items to our Communities Role Play Sessions.
     + If you do not use Jims scripts don't worry, the item.lua lines will still work with no problems
     + All `hunger/thirst` values will be set to `20, 30` as this will be down to your server to set the value amount
 
- ## Massive Credit to ##
- - Massive Thank you to Jims ([JixelPattens](https://discord.gg/xKgQZ6wZvS)) Community for all their Icons/Images
- - Thank You to Jim himself, for permission to include some of his images.
- - Thank You to MrFurox from [Project Boosted](https://discord.gg/TrvAhGvDs3) for contributing a lot to this repo.
- - Thank You to [NatasWillDoIt](https://github.com/NatasWillDoIt) for contributing a lot to the README.md
+## Massive Credit to ##
+  - Massive Thank you to Jims ([JixelPattens](https://discord.gg/xKgQZ6wZvS)) Community for all their Icons/Images
+  - Thank You to Jim himself, for permission to include some of his images.
+  - Thank You to MrFurox from [Project Boosted](https://discord.gg/TrvAhGvDs3) for contributing a lot to this repo.
+  - Thank You to [NatasWillDoIt](https://github.com/NatasWillDoIt) for contributing a lot to the README.md
 
- And Thank you to anyone who helps submit images/icons for the Community
+  And Thank you to anyone who helps submit images/icons for the Community
 
- ## Contribution
-- Please feel free to submit a Pull Request (PR) and add to this list for everyone to use.
-- Please make sure you add the item.lua lines as well as the images.
-- Please make sure not to use Paid Content images unless given permission, if given permission please give credit.
-+ Please use this Template to add to the README.md files [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)
+## Contribution
+  - Please feel free to submit a Pull Request (PR) and add to this list for everyone to use.
+  - Please make sure you add the item.lua lines as well as the images.
+  - Please make sure not to use Paid Content images unless given permission, if given permission please give credit.
+    + Please use this Template to add to the README.md files [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)
 
- ## To Setup ##
+## To Setup ##
 
- ## Step 1
-Add the images into your inventory resources (not in the folders)
- - qb-inventory/html/images
- - lj-inventory/html/images
- - aj-inventory/html/images
-Or other inventories
+## Step 1
+  Add the images into your inventory resources (not in the folders)
+  - qb-inventory/html/images
+  - lj-inventory/html/images
+  - aj-inventory/html/images
+    Or other inventories
 
 ## Step 2
-- Each folder has a README.md file to add to your qb-core/Shared/Item.lua
-- (if there isn't a line for the item please feel free to add it and submit a Pull request)
-- Find what your looking for and add what you want.
+  - Each folder has a README.md file to add to your qb-core/Shared/Item.lua
+  - (if there isn't a line for the item please feel free to add it and submit a Pull request)
+  - Find what your looking for and add what you want.
 
- ## Contents
+## Contents
   - Animals 
   - Chairs | [Jim-Chairs](https://github.com/jimathy/jim-chairs)
   - Drinks | Alcoholic | Beanmachine | Burgershot | Catcafe | Energy | HotDrinks | Soda | SoftDrinks
