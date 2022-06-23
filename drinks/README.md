@@ -56,3 +56,5 @@ Add These To Your qb-core/Shared/Items.Lua
 	["irn-bru"] 		 		    = {["name"] = "irn-bru",  	     	    ["label"] = "irn-bru",	 			    ["weight"] = 200, 		["type"] = "item", 		["image"] = "irn-bru.png", 		    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,   	["combinable"] = nil,   ["description"] = "Barr Soda", ['thirst'] = math.random(20, 30) },
 ```
 ```lua
+
+```

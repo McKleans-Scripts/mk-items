@@ -10,14 +10,25 @@ Bringing More Items to our Communities Role Play Sessions.
 ## Updates ##
 
 v1.5.2
-  - Read.Me Drinks Updated
-    + Energy Drinks And Sodas 
-  - Read.Me Food Updated
-    + Brownies & Project Boosted's Addon Diner Food
-
+  - Drinks
+    + `README.md` Drinks Updated
+    + Added more Energy Drinks
+  - Drugs
+    + New folder called `bud`
+    + New folder called `jar`
+    + Added more items
+  - Food
+    + `README.md` Food Updated
+    + Brownies & [Project Boosted](https://discord.gg/TrvAhGvDs3)'s Addon Diner Food
+  - Tech
+    + New folder called `camera`
+    + Added more items
+  - Weapons
+    + Added more items
+  
 v1.5.1
-  - New Cleaning folder added
-    + cleaning supplies added
+  - New `cleaning` folder added
+   + cleaning supplies added
   - a few alcoholic drinks added
   - few phones added
 
@@ -55,9 +66,9 @@ v1.4.1
 
 v1.4
  - More Mechanic Items/Choices
- - Added to the Mechanic items.md
- - Added to the Tools items.md
- - Added to the Smokes items.md
+ - Added to the `mechanic` items.md
+ - Added to the `tools` items.md
+ - Added to the `smokes` items.md
  - More Police Choices
  - Added to the Police items.md
 
