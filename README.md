@@ -1,8 +1,8 @@
-# MK-Items v1.6
+# MK-Items v1.6.2
 - (Updated 28-June-22)
-Need more items for your server? Look no further, here you will find items from the Community for the Community. Hopefully, this repo can provide exactly what your looking for.
-If you can't find something, create an issue and we'll try and find it for you, or if you manage to find it then submit a Pull Request so other members of the community can make use of it too.
-Bringing More Items to our Communities Role Play Sessions.
+ + Need more items for your server? Look no further, here you will find items from the Community for the Community. Hopefully, this repo can provide exactly what your looking for.
+ + If you can't find something, create an issue and we'll try and find it for you, or if you manage to find it then submit a Pull Request so other members of the community can make use of it too.
+ + Bringing More Items to our Communities Role Play Sessions.
 
 - If Contributing please use this template for the item.lua lines :- [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)
   + Please make all images 100x100px

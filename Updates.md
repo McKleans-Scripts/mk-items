@@ -9,6 +9,10 @@ Bringing More Items to our Communities Role Play Sessions.
 
 ## Updates ##
 
+# v1.6.2
+ - Forgot to add the varients
+ - Renamed `xxx` to `erp`
+
 # v1.6
   - README.md
    + Credit to [Project Sloth](https://github.com/Project-Sloth)'s Community
@@ -39,6 +43,8 @@ Bringing More Items to our Communities Role Play Sessions.
    + New Folder `consoles`
    + Added more items
    + Added more varients
+  - Toys
+   + Added Folder `beaniebaby`
   - Weapons
    + New Folder called `blueprints`
    + New Folder called `paintball`
