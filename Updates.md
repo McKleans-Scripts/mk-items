@@ -9,7 +9,46 @@ Bringing More Items to our Communities Role Play Sessions.
 
 ## Updates ##
 
-v1.5.2
+# v1.6
+  - README.md
+   + Credit to [Project Sloth](https://github.com/Project-Sloth)'s Community
+  - Activities (New Folder)
+   + Added more items
+  - Clothing (New Folder)
+   + Added items
+   + Moved `masks` folder here
+   + New Folder `flags`
+  - Drugs
+   + New Folder called `leaf`
+   + Added more items
+   + Added more varients
+  - Mechanic
+   + New Folder `suspension`
+   + Added more items
+  - Medical
+   + Added more items
+  - Membership (New Folder)
+   + Added more items
+  - Police
+   + Added more items
+   + New Folder `evidence`
+  - Smokes
+   + Added more items
+   + Added more varients
+  - Tech
+   + New Folder `consoles`
+   + Added more items
+   + Added more varients
+  - Weapons
+   + New Folder called `blueprints`
+   + New Folder called `paintball`
+   + New Folder called `explosives`
+   + Blueprints by [Monkey](https://github.com/MonkeyWhisper) from [Project Sloth](https://github.com/Project-Sloth)
+   + Added more items
+  - XXX (New Folder)
+   + Added items
+
+# v1.5.2
   - Drinks
     + `README.md` Drinks Updated
     + Added more Energy Drinks
@@ -26,13 +65,13 @@ v1.5.2
   - Weapons
     + Added more items
   
-v1.5.1
+# v1.5.1
   - New `cleaning` folder added
    + cleaning supplies added
   - a few alcoholic drinks added
   - few phones added
 
-v1.5
+# v1.5
   - Over 200 Files adjusted
   - Updated main `README.md` file
   - Replaced all `items.md` files with `README.md` files to work with Github
@@ -44,7 +83,7 @@ v1.5
     + Weapons README.md
     + Pawn Shop README.md
 
-v1.4.3
+# v1.4.3
  - Added `items.md` contributed by [NatasWillDoIt](https://github.com/NatasWillDoIt)
  - Testing difference between `items.md` and `readme.md` in Animals folder
  - Added weapon parts contributed by [Friskk]y(https://github.com/Friskky)
@@ -53,10 +92,10 @@ v1.4.3
  - Added a VR Headset from [Friskk]y(https://github.com/Friskky)
  - Added some more items from MrFurox
 
-v1.4.2
+# v1.4.2
  - Added some Weapon Parts
 
-v1.4.1
+# v1.4.1
  - More Credit card Choices
  - More Radio Choices
  - Security Card img's have been resized
@@ -64,7 +103,7 @@ v1.4.1
  - More Animal related images
  - Edit to some of the Contributors lists
 
-v1.4
+# v1.4
  - More Mechanic Items/Choices
  - Added to the `mechanic` items.md
  - Added to the `tools` items.md
@@ -72,7 +111,7 @@ v1.4
  - More Police Choices
  - Added to the Police items.md
 
-v1.3
+# v1.3
  - More Drug choices
  - More Masks
  - More Tech
@@ -81,18 +120,18 @@ v1.3
  - More Tool Choices
  - More Stun Gun Choices
 
-v1.2
+# v1.2
  - Updated some items.md
  - added items.md files to the new folders
  - added a couple contributors
  - [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)
 
-v1.1
+# v1.1
  - Added more folders
- - Illegal Folder
- - Masks Folder
- - Pawn Shop Folder
- - Smokes Folder
+   + Illegal Folder
+   + Masks Folder
+   + Pawn Shop Folder
+   + Smokes Folder
 
-v1.0
- - Upload
+# v1.0
+ - Intial Upload
