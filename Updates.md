@@ -9,6 +9,10 @@ Bringing More Items to our Communities Role Play Sessions.
 
 ## Updates ##
 
+# v1.6.3
+ - Resized images to 100x100 (standard size for LJ-Inventory)
+   + Huge Thanks to [googleoblivion](https://github.com/googleoblivion)
+
 # v1.6.2
  - Forgot to add the varients
  - Renamed `xxx` to `erp`
