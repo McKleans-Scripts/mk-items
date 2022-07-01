@@ -12,86 +12,87 @@ Bringing More Items to our Communities Role Play Sessions.
 # v1.6.3
  - Resized images to 100x100 (standard size for LJ-Inventory)
    + Huge Thanks to [googleoblivion](https://github.com/googleoblivion)
+ - Fix How `Updates.md` looks on GitHub
 
 # v1.6.2
  - Forgot to add the varients
  - Renamed `xxx` to `erp`
 
 # v1.6
-  - README.md
+ - README.md
    + Credit to [Project Sloth](https://github.com/Project-Sloth)'s Community
-  - Activities (New Folder)
+ - Activities (New Folder)
    + Added more items
-  - Clothing (New Folder)
+ - Clothing (New Folder)
    + Added items
    + Moved `masks` folder here
    + New Folder `flags`
-  - Drugs
+ - Drugs
    + New Folder called `leaf`
    + Added more items
    + Added more varients
-  - Mechanic
+ - Mechanic
    + New Folder `suspension`
    + Added more items
-  - Medical
+ - Medical
    + Added more items
-  - Membership (New Folder)
+ - Membership (New Folder)
    + Added more items
-  - Police
+ - Police
    + Added more items
    + New Folder `evidence`
-  - Smokes
+ - Smokes
    + Added more items
    + Added more varients
-  - Tech
+ - Tech
    + New Folder `consoles`
    + Added more items
    + Added more varients
-  - Toys
+ - Toys
    + Added Folder `beaniebaby`
-  - Weapons
+ - Weapons
    + New Folder called `blueprints`
    + New Folder called `paintball`
    + New Folder called `explosives`
    + Blueprints by [Monkey](https://github.com/MonkeyWhisper) from [Project Sloth](https://github.com/Project-Sloth)
    + Added more items
-  - XXX (New Folder)
+ - XXX (New Folder)
    + Added items
 
 # v1.5.2
-  - Drinks
-    + `README.md` Drinks Updated
-    + Added more Energy Drinks
-  - Drugs
-    + New folder called `bud`
-    + New folder called `jar`
-    + Added more items
-  - Food
-    + `README.md` Food Updated
-    + Brownies & [Project Boosted](https://discord.gg/TrvAhGvDs3)'s Addon Diner Food
-  - Tech
-    + New folder called `camera`
-    + Added more items
-  - Weapons
-    + Added more items
+ - Drinks
+   + `README.md` Drinks Updated
+   + Added more Energy Drinks
+ - Drugs
+   + New folder called `bud`
+   + New folder called `jar`
+   + Added more items
+ - Food
+   + `README.md` Food Updated
+   + Brownies & [Project Boosted](https://discord.gg/TrvAhGvDs3)'s Addon Diner Food
+ - Tech
+   + New folder called `camera`
+   + Added more items
+ - Weapons
+   + Added more items
   
 # v1.5.1
-  - New `cleaning` folder added
+ - New `cleaning` folder added
    + cleaning supplies added
-  - a few alcoholic drinks added
-  - few phones added
+ - a few alcoholic drinks added
+ - few phones added
 
 # v1.5
-  - Over 200 Files adjusted
-  - Updated main `README.md` file
-  - Replaced all `items.md` files with `README.md` files to work with Github
-  - Updated the `Updates.md` files for those that want to keep up to date
-  - Created folder `chemicals` in the `drugs` folder
-  - Seperated the `attachemnts-parts` folder in two
-  - Resized a bunch of items to **100x100**
-  - Contribution from [NatasWillDoIt](https://github.com/NatasWillDoIt)
-    + Weapons README.md
-    + Pawn Shop README.md
+ - Over 200 Files adjusted
+ - Updated main `README.md` file
+ - Replaced all `items.md` files with `README.md` files to work with Github
+ - Updated the `Updates.md` files for those that want to keep up to date
+ - Created folder `chemicals` in the `drugs` folder
+ - Seperated the `attachemnts-parts` folder in two
+ - Resized a bunch of items to **100x100**
+ - Contribution from [NatasWillDoIt](https://github.com/NatasWillDoIt)
+   + Weapons README.md
+   + Pawn Shop README.md
 
 # v1.4.3
  - Added `items.md` contributed by [NatasWillDoIt](https://github.com/NatasWillDoIt)
