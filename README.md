@@ -1,4 +1,4 @@
-# MK-Items v1.6.3
+# MK-Items v1.7
  + Need more items for your server? Look no further, here you will find items from the Community for the Community. Hopefully, this repo can provide exactly what your looking for.
  + If you can't find something, create an issue and we'll try and find it for you, or if you manage to find it then submit a Pull Request so other members of the community can make use of it too.
  + Bringing More Items to our Communities Role Play Sessions.
@@ -9,6 +9,7 @@
 
 
 ## Support
+  - We have a Discord you can join, [Join Here](https://discord.gg/DEWp9TP7p6)
   - Most of the README.md files support the [decay inventory Script](https://github.com/tnj-development/inventory) (All files to support soon)
     + If you do not use the decay script don't worry, the item.lua lines will still work with no problems
     + All decay values will be set to `0.1` as this will be down to your server to set the value amount
@@ -28,7 +29,7 @@
 
 ## Contribution
   - Please feel free to submit a Pull Request (PR) and add to this list for everyone to use.
-  - Please make sure you add the item.lua lines as well as the images.
+    + Please make sure you add the item.lua lines as well as the images.
   - Please make sure not to use Paid Content images unless given permission, if given permission please give credit.
     + Please use this Template to add to the README.md files [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)
 
@@ -47,24 +48,29 @@
   - Find what your looking for and add what you want.
 
 ## Contents
-  - Animals 
-  - Chairs | [Jim-Chairs](https://github.com/jimathy/jim-chairs)
-  - Drinks | Alcoholic | Beanmachine | Burgershot | Catcafe | Energy | HotDrinks | Soda | SoftDrinks
-  - Drugs | Baggies | Chemicals | Joints
-  - Food | Bakery | Brownies | Burgershot | Cafe | Catcafe | Deserts | Dishes | Mouldy | PizzaThis | Snacks
-  - General | Parachutes
-  - Illegal
-  - Ingredients | Glasses
-  - License
-  - Masks
-  - Materials | Animal Skin-Pelt
-  - Mechanic | Brake Parts | Engine Parts | Harness | sprays | Transmission Parts
-  - Medical
-  - Pawn Shop
-  - Police
-  - Seaworld | Bait | Coral | Fish | Gear
-  - Smokes
-  - Technology | Bank Cards | Laptop | Phone | Radio | Security Cards | USB
-  - Tools
-  - Toys | GTAV | Pops | NP Rooster Rest || Mostly contributed by [Project Boosted](https://github.com/Project-Boosted/brp-Loot-Images)
-  - Weapons | Ammo | AR | Attachments | Launcher | Meele | Parts | Pistol | Shotgun | SMG | Sniper | Sprays | Throwables
+  - Activities ||
+  - Animals ||
+  - Chairs || [Jim-Chairs](https://github.com/jimathy/jim-chairs)
+  - Clothing || Flags | Jewlery | Masks
+  - Drinks || Alcoholic | Beanmachine | Burgershot | Catcafe | Energy | HotDrinks | mk-drinks | Soda | SoftDrinks
+  - Drugs || Baggies | Chemicals | Joints
+  - Food || Bakery | Brownies | Burgershot | Cafe | Catcafe | Deserts | Dishes | mk-food | Mouldy | PizzaThis | Snacks
+  - General || Box | Parachutes
+  - Illegal ||
+  - Ingredients || Glasses
+  - License ||
+  - Masks ||
+  - Materials || Animal Skin-Pelt
+  - Mechanic || Brake Parts | Engine Parts | Harness | NOS | Sprays | Stancer | Suspention | Transmission Parts
+  - Medical || Chemicals | Equipment | Inhaler | Medkits | Samples | Tablets
+  - Memberships || 
+  - Pawn Shop ||
+  - Police || Badges | Evidence
+  - Seaworld || Bait | Coral | Fish | Gear
+  - Signs ||
+  - Smokes ||
+  - Technology || Bank Cards | Camera | Consoles | Laptop | News | Phone | Radio | Security Cards | USB
+  - Tools || Cleaning | Drills | Lockpicks
+  - Toys || GTAV | Pops | NP Rooster Rest || Mostly contributed by [Project Boosted](https://github.com/Project-Boosted/brp-Loot-Images)
+  - Vouchers ||
+  - Weapons || Ammo | AR | Attachments | Launcher | Meele | Parts | Pistol | Shotgun | SMG | Sniper | Sprays | Throwables

@@ -1,4 +1,5 @@
 # MK-Items Updates
+[Our Discord](https://discord.gg/DEWp9TP7p6)
 Need more items for your server? Look no further, here you will find items from the Community for the Community. Hopefully, this repo can provide exactly what your looking for.
 If you can't find something, create an issue and we'll try and fing it for you, or if you manage to find it then submit a Pull Request so other members of the community can make use of it too.
 Bringing More Items to our Communities Role Play Sessions.
@@ -8,6 +9,55 @@ Bringing More Items to our Communities Role Play Sessions.
     + Template supports Jims Thirst and Hunger, also supports the [decay inventory Script](https://github.com/tnj-development/inventory)
 
 ## Updates ##
+
+# 1.7
+ - Clothing
+   + More Items added
+   + Masks
+ - Drinks
+   + More Items added
+   + mk-drinks folder added
+ - Drugs
+   + More Items added
+   + drug table, weedbag
+ - Food
+   + More Items added
+   + mk-foods added
+   + Mexican Food
+ - General
+   + More Items added
+   + Varied Boxes
+ - Ingredients
+   + More Items added
+ - License
+   + More Items added
+   + Lawyer, Marijuana, weapon
+ - Materials
+   + More Materials Added
+   + Ores, Ingots, Sheets, ect
+   + Pelts, Skins, Flesh - all have different grades
+ - Mechanic
+   + More Items added
+   + Car Jack, stancer kit
+ - Medical
+   + More Items added
+   + tablets, inhalers, chemicals, ect
+ - Police
+   + More Badges added
+   + lspd, ranger, sheriff, state
+ - Seaworld
+   + More Fish added
+ - Signs (NEW)
+   + More Items added
+   _ Signs, Signs and more Signs
+ - Tech
+   + More Items added
+   + consoles, news, headgear, phones
+ - Toys
+   + More Items added
+   + cat toys, jetpack
+ - Weapons
+   + snspistol part fix
 
 # v1.6.3
  - Resized images to 100x100 (standard size for LJ-Inventory)

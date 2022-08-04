@@ -21,6 +21,15 @@ Add These To Your qb-core/Shared/Items.Lua
     ["kiki"] 			 	 	 	 = {["name"] = "kiki", 					    ["label"] = "Kiki", 			            ["weight"] = 1000,  	["decay"] = 0.1,  		["type"] = "item", 		["image"] = "kiki.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
 ```
 ```lua
+-- UwU Catecafe
+    ["saki"] 			 	 	 	 = {["name"] = "saki", 				    ["label"] = "Saki", 			            ["weight"] = 1000,  	["decay"] = 0.1,  		["type"] = "item", 		["image"] = "Saki.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
+    ["poopy"] 			 	 	 	 = {["name"] = "poopy", 				    ["label"] = "Poopy", 			            ["weight"] = 1000,  	["decay"] = 0.1,  		["type"] = "item", 		["image"] = "Poopy.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
+    ["muffy"] 			 	 	 	 = {["name"] = "muffy", 					    ["label"] = "Muffy", 			                ["weight"] = 1000,  	["decay"] = 0.1,  		["type"] = "item", 		["image"] = "Muffy.png", 			        ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
+    ["humpy"] 			 	 	 	 = {["name"] = "humpy", 				    ["label"] = "Humpy", 			            ["weight"] = 1000,  	["decay"] = 0.1,  		["type"] = "item", 		["image"] = "Humpy.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
+    ["grindy"] 			 	 	 	 = {["name"] = "grindy", 					    ["label"] = "Grindy", 			            ["weight"] = 1000,  	["decay"] = 0.1,  		["type"] = "item", 		["image"] = "Grindy.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
+    ["smokey"] 			 	 	 	 = {["name"] = "smokey", 					    ["label"] = "Smokey", 			            ["weight"] = 1000,  	["decay"] = 0.1,  		["type"] = "item", 		["image"] = "Smokey.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
+```
+```lua
 -- NP Rooser Rest
     ["bjorn"] 			 	 	 	 = {["name"] = "bjorn", 				    ["label"] = "Bjorn", 			            ["weight"] = 1000,  	["decay"] = 0.1,  		["type"] = "item", 		["image"] = "bjorn.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
     ["buddha"] 			 	 	 	 = {["name"] = "buddha", 				    ["label"] = "Buddha", 			            ["weight"] = 1000,  	["decay"] = 0.1,  		["type"] = "item", 		["image"] = "buddha.png", 			    ["created"] = nil,		["unique"] = false,     ["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Toy"},
