@@ -3,7 +3,8 @@ Add These To Your qb-core/Shared/Items.Lua
 
 ## Credit to Contributors
  - MrFuRoX @ [Project Boosted](https://github.com/Project-Boosted)
- - 
+ - Catcafe Toy Animations by [Jimathy](https://jimathy666.tebex.io/package/4848130)
+
 
 
 ----------  TOYS  ----------  TOYS  ----------  TOYS  ----------  TOYS  ----------

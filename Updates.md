@@ -10,6 +10,11 @@ Bringing More Items to our Communities Role Play Sessions.
 
 ## Updates ##
 
+# 1.7.1
+ - Toys
+   + Animations for Catcafe Toys
+   + File provided by Jimathy himself, Thanks Jim.
+
 # 1.7
  - Clothing
    + More Items added
