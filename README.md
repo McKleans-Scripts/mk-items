@@ -1,4 +1,4 @@
-# MK-Items v1.7
+# MK-Items v1.8
  + Need more items for your server? Look no further, here you will find items from the Community for the Community. Hopefully, this repo can provide exactly what your looking for.
  + If you can't find something, create an issue and we'll try and find it for you, or if you manage to find it then submit a Pull Request so other members of the community can make use of it too.
  + Bringing More Items to our Communities Role Play Sessions.
@@ -21,9 +21,9 @@
   - Massive Thank you to Jims ([JixelPattens](https://discord.gg/xKgQZ6wZvS)) Community for all their Icons/Images
   - Thank You to Jim himself, for permission to include some of his images.
   - Thank You to MrFurox from [Project Boosted](https://discord.gg/TrvAhGvDs3) for contributing a lot to this repo.
-  - Thank You to [NatasWillDoIt](https://github.com/NatasWillDoIt) for contributing a lot to the README.md
+  - Thank You to [NatasWillDoIt](https://github.com/NatasWillDoIt) for contributing a lot to the README.md in each section
   - Thank You to [Project Sloth](https://github.com/Project-Sloth)'s Community for sharing their items/imgs in the 'inventory-imgs' channel
-  - Thank You to [googleoblivion](https://github.com/googleoblivion) for resising a huge amount of the items.
+  - Thank You to [googleoblivion](https://github.com/googleoblivion) for resizing a huge amount of the items.
 
   And Thank you to anyone who helps submit images/icons for the Community
 
@@ -51,15 +51,15 @@
   - Activities ||
   - Animals ||
   - Chairs || [Jim-Chairs](https://github.com/jimathy/jim-chairs)
-  - Clothing || Flags | Jewlery | Masks
-  - Drinks || Alcoholic | Beanmachine | Burgershot | Catcafe | Energy | HotDrinks | mk-drinks | Soda | SoftDrinks
+  - Clothing || Bags | Flags | Jewlery | Masks | Rings | Shoes
+  - Drinks || Alcoholic | Beanmachine | Burgershot | Catcafe | Energy | HotDrinks | MK-Drinks | Soda | SoftDrinks | Subway
   - Drugs || Baggies | Chemicals | Joints
-  - Food || Bakery | Brownies | Burgershot | Cafe | Catcafe | Deserts | Dishes | mk-food | Mouldy | PizzaThis | Snacks
-  - General || Box | Parachutes
+  - ERP || Toys
+  - Food || Bakery | Brownies | Burgershot | Cafe | Catcafe | Deserts | Dishes | MK-Food | Mouldy | PizzaThis | Salad | Snacks | Subway
+  - General || Box | Keys | Parachutes | Skateboard
   - Illegal ||
   - Ingredients || Glasses
   - License ||
-  - Masks ||
   - Materials || Animal Skin-Pelt
   - Mechanic || Brake Parts | Engine Parts | Harness | NOS | Sprays | Stancer | Suspention | Transmission Parts
   - Medical || Chemicals | Equipment | Inhaler | Medkits | Samples | Tablets
@@ -69,7 +69,7 @@
   - Seaworld || Bait | Coral | Fish | Gear
   - Signs ||
   - Smokes ||
-  - Technology || Bank Cards | Camera | Consoles | Laptop | News | Phone | Radio | Security Cards | USB
+  - Tech || Bank Cards | Camera | Consoles | Electronickits | Hackingdevices | Laptop | News | Phone | Radio | Security Cards | Stolen | USB
   - Tools || Cleaning | Drills | Lockpicks
   - Toys || GTAV | Pops | NP Rooster Rest || Mostly contributed by [Project Boosted](https://github.com/Project-Boosted/brp-Loot-Images)
   - Vouchers ||

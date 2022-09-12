@@ -10,6 +10,56 @@ Bringing More Items to our Communities Role Play Sessions.
 
 ## Updates ##
 
+# 1.8
+ - Clothing
+   + Added bags
+   + Added rings from `Thommie`
+  - Drinks
+    + Added more alcoholic drinks
+    + Added more burgershot drinks from `inhale`
+    + Added more energy drinks
+    + Added more pizzathis drinks from `inhale`
+    + Added more soda drinks
+    + Added subway drink from `KenanDK`
+  - Drugs
+    + Added more joints
+    + Added more tables from `Vosscat`
+  - food
+    + Added more bakery food
+    + Added more burgershot food from `inhale`
+    + Added more pizzathis food from `inhale`
+    + Added more salad food from `KenanDK`
+    + Added subway food from `KenanDK`
+  - General
+    + Added more keys from `Vosscat`
+    + Added skateboards
+  - Illegal
+    + Added more markedbills
+  - Materials
+    + Added more Ingots from `Thommie`
+    + Added Lumber from `Zumie Fiasco`
+  - Mechanic
+    + Added more repairkits
+    + added more suspension from `Vosscat`
+  - Medical
+    + Added a defib
+  - Police
+    + Added more markers from `Vosscat`
+    + Added ziptie
+    + Added handcuffs
+  - Tech
+    + Added electronickits
+    + Added garmin gps
+    + Added hackingdevices
+    + Added more phones
+    + Added more remotes
+  - Tools
+    + Added powertools from `Jeay & Jimathy`
+  - Weapons
+    + Added attchment
+    + Added blcnk blueprints
+    + Added meele weapon
+
 # 1.7.1
  - Toys
    + Animations for Catcafe Toys
