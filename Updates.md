@@ -1,5 +1,6 @@
 # MK-Items Updates
 [Our Discord](https://discord.gg/DEWp9TP7p6)
+[BuymeaCoffee](https://www.buymeacoffee.com/mcklean)
 Need more items for your server? Look no further, here you will find items from the Community for the Community. Hopefully, this repo can provide exactly what your looking for.
 If you can't find something, create an issue and we'll try and fing it for you, or if you manage to find it then submit a Pull Request so other members of the community can make use of it too.
 Bringing More Items to our Communities Role Play Sessions.
@@ -9,6 +10,27 @@ Bringing More Items to our Communities Role Play Sessions.
     + Template supports Jims Thirst and Hunger, also supports the [decay inventory Script](https://github.com/tnj-development/inventory)
 
 ## Updates ##
+
+# 1.8.1
+  - Added [BuymeaCoffee](https://www.buymeacoffee.com/mcklean) to README.md
+  - Clothing
+   + Added more clothing
+   + Added more Chains
+  - Food
+   + Added more Crisps or Chips for the Americans
+  - General
+   + Added more Grills
+  - Hunting
+   + New Folder
+   + Added more skins
+   + added more flesh
+  - Illegal
+   + New Folder `Body Parts`
+   + Added Body Parts
+  - Medical
+   + Added another medkit
+  - Tech
+   + Added more bank cards
 
 # 1.8
  - Clothing

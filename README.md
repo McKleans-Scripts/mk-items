@@ -10,6 +10,7 @@
 
 ## Support
   - We have a Discord you can join, [Join Here](https://discord.gg/DEWp9TP7p6)
+  - You can also support via [BuymeaCoffee](https://www.buymeacoffee.com/mcklean)
   - Most of the README.md files support the [decay inventory Script](https://github.com/tnj-development/inventory) (All files to support soon)
     + If you do not use the decay script don't worry, the item.lua lines will still work with no problems
     + All decay values will be set to `0.1` as this will be down to your server to set the value amount
@@ -57,10 +58,11 @@
   - ERP || Toys
   - Food || Bakery | Brownies | Burgershot | Cafe | Catcafe | Deserts | Dishes | MK-Food | Mouldy | PizzaThis | Salad | Snacks | Subway
   - General || Box | Keys | Parachutes | Skateboard
+  - Hunting || Flesh | Pelt | Skin
   - Illegal ||
   - Ingredients || Glasses
   - License ||
-  - Materials || Animal Skin-Pelt
+  - Materials || Gold | Ingot | Lumber | Ore
   - Mechanic || Brake Parts | Engine Parts | Harness | NOS | Sprays | Stancer | Suspention | Transmission Parts
   - Medical || Chemicals | Equipment | Inhaler | Medkits | Samples | Tablets
   - Memberships || 
