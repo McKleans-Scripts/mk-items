@@ -44,7 +44,7 @@
     Or other inventories
 
 ## Step 2
-  - Each folder has a README.md file to add to your qb-core/Shared/Item.lua
+  - Each folder has a README.md file to add to your qb-core/Shared/Item.lua (or other framework items.lua)
   - (if there isn't a line for the item please feel free to add it and submit a Pull request)
   - Find what your looking for and add what you want.
 

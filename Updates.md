@@ -11,6 +11,44 @@ Bringing More Items to our Communities Role Play Sessions.
 
 ## Updates ##
 
+# 1.8.2
+  - Activities
+   + Thank You to `cetvoropek` for adding the Activities readme.md
+  - Drinks
+   + Added more Catcafe Drinks from `Taylor Renee`
+   + Added more Alcoholic items from `WEEZOOKA`
+   + Added more Soda items from `SolsticeDev`
+   + Added more Drinks
+  - Food
+   + Added more Catcafe Food from `Taylor Renee`
+   + Added more Food items from `WEEZOOKA`
+   + Added more Food items from `SolsticeDev`
+   + Added more Food
+  - General
+   + Added more general items
+   + Added more menus from `vLxve`
+   + Added more Keys from `alexvermaning0`
+  - Illegal
+   + Added more Illegal Items
+  - Ingredients
+   + Added more Ingredients from `Taylor Renee`
+   + Added more Ingredients items from `WEEZOOKA`
+   + Folded some items
+  - Materials
+   + Added more items from `WEEZOOKA`
+  - Mechanic
+   + Added an item from `SolsticeDev`
+   + Added an item from `WEEZOOKA`
+  - Tech
+   + Added more security cards from `NoNo`
+  - Tools
+   + Added an item from `WEEZOOKA`
+  - Weapons
+   + Added more ammo items from `WEEZOOKA`
+   + Added an ammo item from `LuxLife`
+   + Added more pistol items from `WEEZOOKA`
+   + Added more meela items from `WEEZOOKA`
+
 # 1.8.1
   - Added [BuymeaCoffee](https://www.buymeacoffee.com/mcklean) to README.md
   - Clothing
