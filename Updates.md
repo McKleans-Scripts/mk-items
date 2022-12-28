@@ -11,6 +11,12 @@ Bringing More Items to our Communities Role Play Sessions.
 
 ## Updates ##
 
+# 1.8.3
+  - Drinks
+   + Added more Catcafe Drinks from `alexvermaning0`
+  - Food
+   + Added more Catcafe Food from `alexvermaning0`
+
 # 1.8.2
   - Activities
    + Thank You to `cetvoropek` for adding the Activities readme.md
