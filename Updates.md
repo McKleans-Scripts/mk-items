@@ -1,15 +1,37 @@
-# MK-Items Updates
-[Our Discord](https://discord.gg/DEWp9TP7p6)
-[BuymeaCoffee](https://www.buymeacoffee.com/mcklean)
+# MK-Items Updates by [McKleans-Scripts](https://mckleans-scripts.tebex.io/) | [Discord](https://discord.gg/DEWp9TP7p6) | [BuyMeACoffee](https://www.buymeacoffee.com/mcklean)
+
 Need more items for your server? Look no further, here you will find items from the Community for the Community. Hopefully, this repo can provide exactly what your looking for.
 If you can't find something, create an issue and we'll try and fing it for you, or if you manage to find it then submit a Pull Request so other members of the community can make use of it too.
 Bringing More Items to our Communities Role Play Sessions.
 
 - If Contributing please use this template for the item.lua lines :- [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)
   + Please make all images 100x100px
-    + Template supports Jims Thirst and Hunger, also supports the [decay inventory Script](https://github.com/tnj-development/inventory)
 
 ## Updates ##
+
+# 1.8.4
+  - Thanks to [oosayeroo](https://github.com/oosayeroo) for providing stuff for this update
+  - Books
+   + Added Books from [oosayeroo](https://github.com/oosayeroo)
+  - Drinks
+   + Added more Drinks from [oosayeroo](https://github.com/oosayeroo)
+  - Drugs
+   + Added more Drugs from [oosayeroo](https://github.com/oosayeroo)
+  - Food
+   + Added more Food from [oosayeroo](https://github.com/oosayeroo)
+  - General
+   + Added more General from [oosayeroo](https://github.com/oosayeroo)
+  - Ingredients
+   + Added more Ingredients from [oosayeroo](https://github.com/oosayeroo)
+  - Materials
+   + Added more Materials from [oosayeroo](https://github.com/oosayeroo)
+  - Mechanic parts
+   + Added more Mechanic parts from [oosayeroo](https://github.com/oosayeroo)
+  - Smokes
+   + Added more Smokes from [oosayeroo](https://github.com/oosayeroo)
+  - Tech
+   + Added more Tech from [oosayeroo](https://github.com/oosayeroo)
+
 
 # 1.8.3
   - Drinks

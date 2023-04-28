@@ -1,22 +1,19 @@
-# MK-Items v1.8.3
+# MK-Items v1.8.4 by [McKleans-Scripts](https://mckleans-scripts.tebex.io/) | [Discord](https://discord.gg/DEWp9TP7p6) | [BuyMeACoffee](https://www.buymeacoffee.com/mcklean)
  + Need more items for your server? Look no further, here you will find items from the Community for the Community. Hopefully, this repo can provide exactly what your looking for.
  + If you can't find something, create an issue and we'll try and find it for you, or if you manage to find it then submit a Pull Request so other members of the community can make use of it too.
  + Bringing More Items to our Communities Role Play Sessions.
 
 - If Contributing please use this template for the item.lua lines :- [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)
   + Please make all images 100x100px
-    + Template supports Jims Thirst and Hunger, also supports the [decay inventory Script](https://github.com/tnj-development/inventory)
+    + Template supports the [qb-inventory-decay](https://github.com/i-kulgu/qb-inventory-decay)
 
 
 ## Support
   - We have a Discord you can join, [Join Here](https://discord.gg/DEWp9TP7p6)
   - You can also support via [BuymeaPizzaSlice](https://www.buymeacoffee.com/mcklean)
-  - Most of the README.md files support the [decay inventory Script](https://github.com/tnj-development/inventory)
+  - Most of the README.md files support the [qb-inventory-decay](https://github.com/i-kulgu/qb-inventory-decay)
     + If you do not use the decay script don't worry, the item.lua lines will still work with no problems
-    + All decay values will be set to `0.1` as this will be down to your server to set the value amount
-  - Most of the Food/Drink README.md files support [JixelPatterns](https://discord.gg/JixelPatterns) Businesses Scripts
-    + If you do not use Jims scripts don't worry, the item.lua lines will still work with no problems
-    + All `hunger/thirst` values will be set to `20, 30` as this will be down to your server to set the value amount
+    + All decay values will be set to `nil` as this will be down to your server to set the value amount
 
 ## Massive Credit to ##
   - Massive Thank you to Jims ([JixelPatterns](https://discord.gg/JixelPatterns)) Community for all their Icons/Images
@@ -51,6 +48,7 @@
 ## Contents
   - Activities ||
   - Animals ||
+  - Books ||
   - Chairs || [Jim-Chairs](https://github.com/jimathy/jim-chairs)
   - Clothing || Bags | Flags | Jewlery | Masks | Rings | Shoes
   - Drinks || Alcoholic | Beanmachine | Burgershot | Catcafe | Energy | HotDrinks | MK-Drinks | Soda | SoftDrinks | Subway
