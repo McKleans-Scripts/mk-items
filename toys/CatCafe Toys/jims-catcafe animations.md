@@ -64,6 +64,79 @@ Enjoy!!
 	{   Prop = 'ch_prop_arcade_claw_plush_01a', PropBone = 24817, PropPlacement = {0.0, 0.46, -0.016, -180.0, -90.0, 0.0},
 		EmoteMoving = true, EmoteLoop = true }},
 ```
+
+
+-- `Start of adding Plushies using Jim-Consumables` -- This is if you're using jim consumables and want to keep them all in one place so you don't have to keep updating. 
+-- `Server Side of Jim Consumables` -- Add this under line 9 and remember to save. 
+```
+	for k, v in pairs({
+		"plushiemini1",
+		"plushiemini2",
+		"plushiemini3",
+		"plushiemini4",
+		"plushiemini5",
+		"plushiemini6",
+		"plushiemini7",
+		"plushiemini8",
+		"plushiemini9",
+		"plushie1",
+		"plushie2",
+		"plushie3",
+		"plushie4",
+		"plushie5",
+		"plushie6",
+		"plushie7",
+		"plushie8",
+		"plushie9",
+	}) do 
+QBCore.Functions.CreateUseableItem(v, function(source, item)
+TriggerClientEvent('jim-consumables:client:plushieUse', source, item.name)
+	end)
+	end
+end
+```
+-- `Insert into Client of jim-consumables at line 150` -- This will ensure that they only get the toy if they fully consume and do not cancel. 
+``` 
+        if itemName == "bento" then TriggerEvent('jim-consumables:client:plushiePick') end
+```
+-- `Insert at the bottom of Client of jim-consumables`
+```RegisterNetEvent('jim-consumables:client:plushieUse', function(item)
+	TriggerEvent('animations:client:EmoteCommandStart', {item})
+	Wait(10000)
+	TriggerEvent('animations:client:EmoteCommandStart', {"c"})
+end)
+
+RegisterNetEvent('jim-consumables:client:plushiePick', function()
+	local pool = {	"plushiemini1",
+					"plushiemini2",
+					"plushiemini3",
+					"plushiemini4",
+					"plushiemini5",
+					"plushiemini6",
+					"plushiemini7",
+					"plushiemini8",
+					"plushiemini9", 
+					"plushie1",
+					"plushie2",
+					"plushie3",
+					"plushie4",
+					"plushie5",
+					"plushie6",
+					"plushie7",
+					"plushie8",
+					"plushie9",	}
+	if math.random(0,12) == 1 then -- if the random number = 1 then give a prize
+		local prize = math.random(1, #pool)
+		TriggerEvent("inventory:client:ItemBox", QBCore.Shared.Items[pool[prize]], "add", 1)
+		TriggerServerEvent("QBCore:Server:AddItem", pool[prize], 1)
+	end
+end)
+```
+-- `End of adding Plushies using Jim-Consumables`
+
+
+
+-- `Needs to be updated to work with recent cat-cafe updates`
 -- `SERVER SIDE OF CATCAFE` -- Add this to where food and drinks are made usable.
 ```
 	for _, v in pairs({
@@ -91,6 +164,8 @@ Enjoy!!
 		end)
 	end
 ```
+
+-- `Needs to be updated to work with recent cat-cafe updates`
 -- `CLIENT SIDE OF CAT CAFE` -- Add these to the bottom of the file
 ```
 	RegisterNetEvent('jim-catcafe:client:plushieUse', function(item)
