@@ -1,4 +1,4 @@
-# MK-Items v1.8.4 by [McKleans-Scripts](https://mckleans-scripts.tebex.io/) | [Discord](https://discord.gg/DEWp9TP7p6) | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1LMXYK)
+# MK-Items v1.8.4 by [McKleans-Scripts](https://tinysprite-scripts.tebex.io/) | [Discord](https://discord.gg/ZMFfC54FdJ) | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tinyspritescripts)
  + Need more items for your server? Look no further, here you will find items from the Community for the Community. Hopefully, this repo can provide exactly what your looking for.
  + If you can't find something, create an issue and we'll try and find it for you, or if you manage to find it then submit a Pull Request so other members of the community can make use of it too.
  + Bringing More Items to our Communities Role Play Sessions.
@@ -9,8 +9,8 @@
 
 
 ## Support
-  - We have a Discord you can join, [Join Here](https://discord.gg/DEWp9TP7p6)
-  - You can also support via [BuymeaPizzaSlice](https://www.buymeacoffee.com/mcklean)
+  - We have a Discord you can join, [Join Here](https://discord.gg/ZMFfC54FdJ)
+  - You can also support via [BuymeaPizzaSlice](https://ko-fi.com/tinyspritescripts)
   - Most of the README.md files support the [qb-inventory-decay](https://github.com/i-kulgu/qb-inventory-decay)
     + If you do not use the decay script don't worry, the item.lua lines will still work with no problems
     + All decay values will be set to `nil` as this will be down to your server to set the value amount
@@ -38,6 +38,7 @@
   - qb-inventory/html/images
   - lj-inventory/html/images
   - aj-inventory/html/images
+  - ox_inventory/web/images
     Or other inventories
 
 ## Step 2
