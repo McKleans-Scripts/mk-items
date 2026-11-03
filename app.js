@@ -131,7 +131,7 @@
         const safeKey = luaString(key);
         const safeLabel = luaString(label);
         const safeImage = luaString(image);
-        return `{ name = '${safeKey}', label = '${safeLabel}', weight = 100, type = 'item', image = '${safeImage}', imageUrl = QBCoreSeed.imageUrl('${safeKey}'), unique = false, useable = false, shouldClose = true, description = '${safeLabel}.' },`;
+        return `{ name = '${safeKey}', label = '${safeLabel}', weight = 100, type = 'item', image = '${safeImage}', unique = false, useable = false, shouldClose = true, description = '${safeLabel}.' },`;
       }),
       '```',
       ''
