@@ -120,7 +120,23 @@
       '```',
       ''
     ].join('\n');
-    return { qb, ox };
+    const luaString = (value) => value.replace(/\\/g, '\\\\').replace(/'/g, "\\'");
+    const kora = [
+      '# Kora Item Codes',
+      '',
+      'Add these entries to your Kora item definitions. The image files are in the ZIP `images/` folder.',
+      '',
+      '```lua',
+      ...entries.map(({ key, label, image }) => {
+        const safeKey = luaString(key);
+        const safeLabel = luaString(label);
+        const safeImage = luaString(image);
+        return `{ name = '${safeKey}', label = '${safeLabel}', weight = 100, type = 'item', image = '${safeImage}', imageUrl = QBCoreSeed.imageUrl('${safeKey}'), unique = false, useable = false, shouldClose = true, description = '${safeLabel}.' },`;
+      }),
+      '```',
+      ''
+    ].join('\n');
+    return { qb, ox, kora };
   }
 
   search.addEventListener('input', render);
@@ -166,6 +182,7 @@
       const docs = makeItemCodeDocs(chosen);
       zip.file('QB-Items.md', docs.qb);
       zip.file('OX-Items.md', docs.ox);
+      zip.file('kora.md', docs.kora);
       const content = await zip.generateAsync({ type: 'blob' });
       const link = document.createElement('a'); link.href = URL.createObjectURL(content); link.download = 'mk-items-images.zip'; link.click();
       setTimeout(() => URL.revokeObjectURL(link.href), 1000);
