@@ -207,25 +207,25 @@ end)
 	
 -- In shared `items.lua` you need to add these new items
 ```
-	["plushiemini1"] = {["name"] = "plushiemini1", ["label"] = "Mini Plush 1", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie1.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushiemini2"] = {["name"] = "plushiemini2", ["label"] = "Mini Plush 2", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie2.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushiemini3"] = {["name"] = "plushiemini3", ["label"] = "Mini Plush 3", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie3.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushiemini4"] = {["name"] = "plushiemini4", ["label"] = "Mini Plush 4", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie4.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushiemini5"] = {["name"] = "plushiemini5", ["label"] = "Mini Plush 5", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie5.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushiemini6"] = {["name"] = "plushiemini6", ["label"] = "Mini Plush 6", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie6.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushiemini7"] = {["name"] = "plushiemini7", ["label"] = "Mini Plush 7", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie7.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushiemini8"] = {["name"] = "plushiemini8", ["label"] = "Mini Plush 8", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie8.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushiemini9"] = {["name"] = "plushiemini9", ["label"] = "Mini Plush 9", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie9.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushiemini1"] = {["name"] = "plushiemini1", ["label"] = "Mini Plush 1", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_1.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushiemini2"] = {["name"] = "plushiemini2", ["label"] = "Mini Plush 2", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_2.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushiemini3"] = {["name"] = "plushiemini3", ["label"] = "Mini Plush 3", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_3.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushiemini4"] = {["name"] = "plushiemini4", ["label"] = "Mini Plush 4", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_4.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushiemini5"] = {["name"] = "plushiemini5", ["label"] = "Mini Plush 5", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_5.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushiemini6"] = {["name"] = "plushiemini6", ["label"] = "Mini Plush 6", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_6.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushiemini7"] = {["name"] = "plushiemini7", ["label"] = "Mini Plush 7", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_7.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushiemini8"] = {["name"] = "plushiemini8", ["label"] = "Mini Plush 8", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_8.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushiemini9"] = {["name"] = "plushiemini9", ["label"] = "Mini Plush 9", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_9.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
 
-	["plushie1"] = {["name"] = "plushie1", ["label"] = "Plushie 1", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie1.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushie2"] = {["name"] = "plushie2", ["label"] = "Plushie 2", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie2.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushie3"] = {["name"] = "plushie3", ["label"] = "Plushie 3", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie3.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushie4"] = {["name"] = "plushie4", ["label"] = "Plushie 4", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie4.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushie5"] = {["name"] = "plushie5", ["label"] = "Plushie 5", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie5.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushie6"] = {["name"] = "plushie6", ["label"] = "Plushie 6", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie6.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushie7"] = {["name"] = "plushie7", ["label"] = "Plushie 7", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie7.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushie8"] = {["name"] = "plushie8", ["label"] = "Plushie 8", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie8.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
-	["plushie9"] = {["name"] = "plushie9", ["label"] = "Plushie 9", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie9.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushie1"] = {["name"] = "plushie1", ["label"] = "Plushie 1", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_1.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushie2"] = {["name"] = "plushie2", ["label"] = "Plushie 2", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_2.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushie3"] = {["name"] = "plushie3", ["label"] = "Plushie 3", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_3.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushie4"] = {["name"] = "plushie4", ["label"] = "Plushie 4", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_4.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushie5"] = {["name"] = "plushie5", ["label"] = "Plushie 5", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_5.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushie6"] = {["name"] = "plushie6", ["label"] = "Plushie 6", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_6.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushie7"] = {["name"] = "plushie7", ["label"] = "Plushie 7", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_7.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushie8"] = {["name"] = "plushie8", ["label"] = "Plushie 8", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_8.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
+	["plushie9"] = {["name"] = "plushie9", ["label"] = "Plushie 9", ["weight"] = 500, ["type"] = "item", ["image"] = "plushie_9.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil },
 ```	
 	
 Then add the included pictures to your inventory.
