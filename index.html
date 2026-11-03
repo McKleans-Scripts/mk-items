@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101310">
+  <meta name="description" content="Browse, search, select, and download MK Items images.">
+  <title>MK Items — Image Library</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="MK Items home"><span class="brand-mark">MK</span><span>ITEMS<span class="brand-period">.</span></span></a>
+    <a class="repo-link" href="https://github.com/McKleans-Scripts/mk-items" target="_blank" rel="noreferrer"><span class="repo-dot"></span> Community library <span aria-hidden="true">↗</span></a>
+  </header>
+
+  <main>
+    <section class="intro">
+      <div class="eyebrow"><span class="eyebrow-line"></span> THE COMMUNITY ITEM LIBRARY</div>
+      <h1>Find your next<br><span>inventory icon.</span></h1>
+      <p class="intro-copy">Explore the collection, pick the images you need, and bundle them up in one click.</p>
+      <div class="library-stats"><div><strong id="total-count">—</strong><span>IMAGES</span></div><i></i><div><strong id="category-count">—</strong><span>CATEGORIES</span></div></div>
+    </section>
+
+    <section class="browser" aria-label="Image browser">
+      <div class="toolbar">
+        <label class="search-box"><span class="search-icon" aria-hidden="true"></span><input id="search" type="search" placeholder="Search by item name..." autocomplete="off"><kbd>⌘ K</kbd></label>
+        <label class="sort-control"><span>SORT</span><select id="sort"><option value="name">Name A–Z</option><option value="name-desc">Name Z–A</option><option value="category">Category</option></select></label>
+      </div>
+      <div class="category-bar" id="categories" aria-label="Filter by category"></div>
+      <div class="results-row"><p id="result-count" aria-live="polite">Loading image library…</p><button id="select-visible" class="text-button">Select visible</button></div>
+      <div id="grid" class="image-grid" aria-live="polite"></div>
+      <div id="empty-state" class="empty-state" hidden><span>⌕</span><h2>No images found</h2><p>Try another name or category.</p></div>
+      <div id="load-error" class="load-error" hidden>Could not load the image catalog. Check that <code>catalog.json</code> is deployed with the site.</div>
+    </section>
+  </main>
+
+  <footer class="footer"><span>MK ITEMS <span class="brand-period">/</span> COMMUNITY COLLECTION</span><span>Made for the FiveM community</span></footer>
+
+  <div id="selection-bar" class="selection-bar" hidden>
+    <div class="selection-info"><span class="selection-count" id="selected-count">0</span><span>selected</span><button id="clear-selection" class="clear-button">Clear</button></div>
+    <button id="download-zip" class="download-button"><span aria-hidden="true">↓</span> Download ZIP <span class="download-size" id="download-size">(0)</span></button>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
